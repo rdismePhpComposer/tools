@@ -1,0 +1,21 @@
+{
+    "name": "rdisme/tools",
+    "description": "简单工具类",
+    "authors": [
+        {
+            "name": "rdisme",
+            "email": "rendao.sun@foxmail.com"
+        }
+    ],
+    "keywords": [
+        "ip"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rdisme\\Tools\\": "src"
+        }
+    },
+    "require": {
+    },
+    "license": "MIT"
+}
